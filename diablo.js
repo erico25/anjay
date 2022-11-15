@@ -220,7 +220,7 @@ messageId: ""
 
 switch (command) {
 
-case 'vipmenu':
+case 'menu':
 let uptime = await runtime(process.uptime())
 jiren = ` 
 亗╭┬─────────────────┈ 
