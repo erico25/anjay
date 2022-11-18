@@ -30,7 +30,7 @@ global.mess = {
     succes: 'Good Luck Sis ?',
     admin: 'Group Admin Special Features!!!',
     botAdmin: 'Bots Must Be Admins First!!!',
-    owner: 'Lu Siapa Kocak?',
+    owner: 'bayar dulu pakai ginjal?',
     group: 'Features Used Only For Groups!!!',
     private: 'Features Used Only For Private Chat!!!',
     bot: 'Bot Number User Special Features!!!',
@@ -250,7 +250,7 @@ jiren = `
 亗├ • ${prefix}restart ( untuk restart )
 亗├──────────────────┈
 亗├ 「pricelist bot lain」
-亗├ BISA KUNJUNGI WEB https://lynk.id/bugbotshop
+亗├ 
 亗├──────────────────┈
 `
 diablobotwhatsapp.reply(jiren)
